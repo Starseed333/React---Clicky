@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Darth Vader",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/e/ec/Darth-Vader-Rogue-One.png/revision/latest?cb=20170512191523&path-prefix=protagonist",
+    "occupation": "Evil guy",
+    "location": "Everywhere and Nowhere"
+  },
+  {
+    "id": 2,
+    "name": "Yoda",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/9/95/Master_Yoda.png/revision/latest?cb=20151112212224",
+    "occupation": "The Wise One",
+    "location": "In the promised land"
+  },
+  {
+    "id": 3,
+    "name": "Storm Trooper",
+    "image": "https://vignette3.wikia.nocookie.net/uncyclopedia/images/4/4f/StarWars-Storm_Trooper.png/revision/latest?cb=20151005210011",
+    "occupation": "Loyal Trooper",
+    "location": "Field"
+  },
+  {
+    "id": 4,
+    "name": "C-3PO",
+    "image": "https://vignette.wikia.nocookie.net/star-wars-canon/images/3/38/Red-arm-c-3po-star-wars-ep7-the-force-awakens-characters-cut-out-with-transparent-background_23.png/revision/latest?cb=20160520015150",
+    "occupation": "3PO Protocol Unit Droid",
+    "location": "Death Start"
+  },
+  {
+    "id": 5,
+    "name": "R2-D2",
+    "image": "https://milnersblog.files.wordpress.com/2015/09/r2-d2-star-wars-ep7-the-force-awakens-characters-cut-out-with-transparent-background_24.png",
+    "occupation": "Mechanic & Backup Computer",
+    "location": "Astromech-Droid"
+  },
+  {
+    "id": 6,
+    "name": "Chewbacca",
+    "image": "http://vignette1.wikia.nocookie.net/starwars/images/1/1e/Chewbacca-Fathead.png/revision/latest/scale-to-width-down/2000?cb=20161108052810",
+    "occupation": "The Smart One",
+    "location": "Planet Kashyyyk"
+  },
+  {
+    "id": 7,
+    "name": "Princess Leia",
+    "image": "https://i.pinimg.com/originals/2e/39/bf/2e39bfeb65047835a339c44f7d6141eb.png",
+    "occupation": "Princess & Heroine",
+    "location": "Alderaan"
+  },
+  {
+    "id": 8,
+    "name": "Obi-Wan Kenobi",
+    "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f5/TheNegotiator-SWE.png/revision/latest?cb=20160914011252",
+    "occupation": "Jedi Master",
+    "location": "Galactic Empire"
+  },
+  {
+    "id": 9,
+    "name": "Padme Amidala",
+    "image": "https://img00.deviantart.net/1fbb/i/2015/123/7/5/padme_amidala_skywalker__geonosis_attire__by_simverse-d7o0g3z.png",
+    "occupation": "Queen",
+    "location": "Naboo"
+  },
+  {
+    "id": 10,
+    "name": "Snoke",
+    "image": "https://vignette.wikia.nocookie.net/antagonists/images/a/ac/Supreme-Leader-Snoke-t-600x480.png/revision/latest?cb=20160829113220",
+    "occupation": "Sumpre Leader of the First Order",
+    "location": "Endor"
+  },
+  {
+    "id": 11,
+    "name": "Jabba the Hut",
+    "image": "https://img00.deviantart.net/b46f/i/2015/176/0/a/jabba_the_hutt_by_cloudartistmaster-d8yq6kk.png",
+    "occupation": "Male Hutt",
+    "location": "Galactic Empire"
+  },
+  {
+    "id": 12,
+    "name": "Mace Windu",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/b/b7/Mace_Windu_render.png/revision/latest?cb=20151215194019",
+    "occupation": "Jedi",
+    "location": "Battlefield"
+  }
+]
